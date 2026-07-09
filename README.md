@@ -133,7 +133,7 @@ A MERN-stack messaging app with real-time delivery, presence, and rooms powered 
 **Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Socket.io`
 
 <!-- Add repo link once published -->
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://ADD_REPO)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sram533/realmtalk)
 
 </td>
 </tr>
