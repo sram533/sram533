@@ -166,17 +166,15 @@ Delivered production Salesforce Health Cloud solutions for enterprise healthcare
 
 <br/>
 
-<!-- ░░░ TOP LANGUAGES (no contribution/streak cards) ░░░ -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="26"> Top Languages
 
 <div align="center">
 
 <!-- Replace GITHUB_USERNAME below -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sram533&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=480" alt="Top Languages"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sram533&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=480" alt="Top Languages"/>
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ░░░ CONTACT ░░░ -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="26"> Let's Connect
