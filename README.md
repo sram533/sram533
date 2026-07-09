@@ -172,7 +172,7 @@ Delivered production Salesforce Health Cloud solutions for enterprise healthcare
 <div align="center">
 
 <!-- Replace GITHUB_USERNAME below -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=480" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sram533&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=480" alt="Top Languages"/>
 
 </div>
 
@@ -183,10 +183,10 @@ Delivered production Salesforce Health Cloud solutions for enterprise healthcare
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://ADD_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ADD_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sram533.github.io/siva-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sramk/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsivaramakrishn3@gmail.com)
+
 
 </div>
 
